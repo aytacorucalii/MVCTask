@@ -19,6 +19,7 @@ builder.Services.AddIdentity<AppUser, IdentityRole>(opt =>
 
 var app = builder.Build();
 app.UseStaticFiles();
+app.UseAuthentication();
 
 app.MapControllerRoute(
       name: "Admin",
