@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\MediClub.MVC.csproj": {}
+    "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\MediClub.MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\MediClub.MVC.csproj": {
+    "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\MediClub.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\MediClub.MVC.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\MediClub.MVC.csproj",
         "projectName": "MediClub.MVC",
-        "projectPath": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\MediClub.MVC.csproj",
+        "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\MediClub.MVC.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

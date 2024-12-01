@@ -1,41 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\",
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|c:\\users\\hp\\source\\repos\\mediclub.mvc\\mediclub.mvc\\views\\doctos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|solutionrelative:mediclub.mvc\\views\\doctos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|c:\\users\\hp\\source\\repos\\mediclub.mvc\\mediclub.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|solutionrelative:mediclub.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|c:\\users\\hp\\source\\repos\\mediclub.mvc\\mediclub.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|solutionrelative:mediclub.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|c:\\users\\hp\\source\\repos\\mediclub.mvc\\mediclub.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|solutionrelative:mediclub.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|c:\\users\\hp\\source\\repos\\mediclub.mvc\\mediclub.mvc\\controllers\\doctoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|solutionrelative:mediclub.mvc\\controllers\\doctoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|c:\\users\\hp\\source\\repos\\mediclub.mvc\\mediclub.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|solutionrelative:mediclub.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|c:\\users\\hp\\source\\repos\\mediclub.mvc\\mediclub.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\mediclub.mvc\\mediclub.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|solutionrelative:mediclub.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|c:\\users\\hp\\source\\repos\\mediclub.mvc\\mediclub.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\mediclub.mvc\\mediclub.mvc\\controllers\\doctoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|solutionrelative:mediclub.mvc\\controllers\\doctoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\mediclub.mvc\\mediclub.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|solutionrelative:mediclub.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\mediclub.mvc\\mediclub.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|solutionrelative:mediclub.mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\mediclub.mvc\\mediclub.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|solutionrelative:mediclub.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\mediclub.mvc\\mediclub.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|solutionrelative:mediclub.mvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\mediclub.mvc\\mediclub.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|solutionrelative:mediclub.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|c:\\users\\hp\\source\\repos\\mediclub.mvc\\mediclub.mvc\\mediclub.mvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\mediclub.mvc\\mediclub.mvc\\mediclub.mvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{7C215E1F-1663-4A16-8F73-C8FFCB8AD5F8}|MediClub.MVC\\MediClub.MVC.csproj|solutionrelative:mediclub.mvc\\mediclub.mvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -46,52 +42,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\Views\\Doctos\\Index.cshtml",
-              "RelativeDocumentMoniker": "MediClub.MVC\\Views\\Doctos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\Views\\Doctos\\Index.cshtml",
-              "RelativeToolTip": "MediClub.MVC\\Views\\Doctos\\Index.cshtml",
-              "ViewState": "AgIAAFkBAAAAAAAAAAD4v3oBAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T21:23:59.771Z",
+              "DocumentIndex": 1,
+              "Title": "DoctosController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\Controllers\\DoctosController.cs",
+              "RelativeDocumentMoniker": "MediClub.MVC\\Controllers\\DoctosController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\Controllers\\DoctosController.cs",
+              "RelativeToolTip": "MediClub.MVC\\Controllers\\DoctosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T21:23:38.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DoctosController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\Controllers\\DoctosController.cs",
-              "RelativeDocumentMoniker": "MediClub.MVC\\Controllers\\DoctosController.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\Controllers\\DoctosController.cs",
-              "RelativeToolTip": "MediClub.MVC\\Controllers\\DoctosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T21:23:38.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\Program.cs",
               "RelativeDocumentMoniker": "MediClub.MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\Program.cs",
               "RelativeToolTip": "MediClub.MVC\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T20:27:27.463Z"
+              "WhenOpened": "2024-11-28T20:27:27.463Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "MediClub.MVC\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "MediClub.MVC\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -99,11 +84,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MediClub.MVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "MediClub.MVC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABUBAAAAAAAAAAAvwCcBAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -111,11 +96,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "MediClub.MVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "MediClub.MVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAG8BAAAAAAAAAAAvwHsBAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -123,11 +108,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MediClub.MVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MediClub.MVC\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -137,9 +122,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MediClub.MVC\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\Properties\\launchSettings.json",
               "RelativeToolTip": "MediClub.MVC\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -147,11 +132,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "MediClub.MVC",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\MediClub.MVC.csproj",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\MediClub.MVC.csproj",
               "RelativeDocumentMoniker": "MediClub.MVC\\MediClub.MVC.csproj",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\MediClub.MVC.csproj",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\MediClub.MVC.csproj",
               "RelativeToolTip": "MediClub.MVC\\MediClub.MVC.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-11-28T20:27:04.535Z"

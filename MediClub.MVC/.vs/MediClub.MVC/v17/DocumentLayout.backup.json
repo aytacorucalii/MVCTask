@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "MediClub.MVC\\Views\\Doctos\\Index.cshtml",
               "ToolTip": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\Views\\Doctos\\Index.cshtml",
               "RelativeToolTip": "MediClub.MVC\\Views\\Doctos\\Index.cshtml",
-              "ViewState": "AgIAAF8BAAAAAAAAAAD4v3oBAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAFkBAAAAAAAAAAD4v3oBAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-28T21:23:59.771Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "MediClub.MVC\\Controllers\\DoctosController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T21:23:38.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T21:23:38.441Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "MediClub.MVC\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T20:27:27.463Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T20:27:27.463Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "MediClub.MVC\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T20:39:47.304Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T20:39:47.304Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "MediClub.MVC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABUBAAAAAAAAAAAvwCcBAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T20:39:18.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T20:39:18.414Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "MediClub.MVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAG8BAAAAAAAAAAAvwHsBAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T20:38:19.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T20:38:19.312Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "MediClub.MVC\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T20:38:01.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T20:38:01.881Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "MediClub.MVC\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-28T20:27:18.384Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T20:27:18.384Z"
             },
             {
               "$type": "Document",
@@ -161,8 +154,7 @@
               "ToolTip": "C:\\Users\\Hp\\source\\repos\\MediClub.MVC\\MediClub.MVC\\MediClub.MVC.csproj",
               "RelativeToolTip": "MediClub.MVC\\MediClub.MVC.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-28T20:27:04.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-28T20:27:04.535Z"
             }
           ]
         }

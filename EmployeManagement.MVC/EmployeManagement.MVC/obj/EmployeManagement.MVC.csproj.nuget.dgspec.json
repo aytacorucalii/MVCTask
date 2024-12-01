@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\II Novbe\\source\\repos\\EmployeManagement.MVC\\EmployeManagement.MVC\\EmployeManagement.MVC.csproj": {}
+    "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\EmployeManagement.MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\II Novbe\\source\\repos\\EmployeManagement.MVC\\EmployeManagement.MVC\\EmployeManagement.MVC.csproj": {
+    "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\EmployeManagement.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II Novbe\\source\\repos\\EmployeManagement.MVC\\EmployeManagement.MVC\\EmployeManagement.MVC.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\EmployeManagement.MVC.csproj",
         "projectName": "EmployeManagement.MVC",
-        "projectPath": "C:\\Users\\II Novbe\\source\\repos\\EmployeManagement.MVC\\EmployeManagement.MVC\\EmployeManagement.MVC.csproj",
-        "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II Novbe\\source\\repos\\EmployeManagement.MVC\\EmployeManagement.MVC\\obj\\",
+        "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\EmployeManagement.MVC.csproj",
+        "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

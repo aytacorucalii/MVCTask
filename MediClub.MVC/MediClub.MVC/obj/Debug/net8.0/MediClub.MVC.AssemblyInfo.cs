@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MediClub.MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec179798856e8d53673969c4f3eca0de6fa15e7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("MediClub.MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MediClub.MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
