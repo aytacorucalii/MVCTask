@@ -30,22 +30,43 @@ namespace EmployeManagement.MVC.Areas.Admin.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        public IActionResult Create()
+        public IActionResult Create(int serviceId)
         {
+            var service = appDBContext.Services.Include(s => s.Masters).FirstOrDefault(s => s.Id == serviceId && s.IsActive);
+            if (service == null)
+            {
+                return NotFound();
+            }
+
+            ViewBag.Service = service;
             return View();
         }
 
         [HttpPost]
-        public IActionResult Create(Order Order)
+        public IActionResult Create(Order order)
         {
-            if (!ModelState.IsValid)
+            var service = appDBContext.Services.Include(s => s.Masters).FirstOrDefault(s => s.Id == order.ServiceId && s.IsActive);
+            if (service == null)
             {
-                return BadRequest("Something went wrong");
+                return NotFound();
             }
 
-            appDBContext.Orders.Add(Order);
+
+            var masters = service.Masters.Where(m => m.IsActive).OrderByDescending(m => m.ExperienceYear).ToList();
+
+            if (masters.Any())
+            {
+                order.MasterId = masters.First().Id;
+            }
+
+            order.CreatedAt = DateTime.Now;
+            order.UpdatedAt = DateTime.Now;
+            order.IsActive = true;
+
+            appDBContext.Orders.Add(order);
             appDBContext.SaveChanges();
-            return RedirectToAction(nameof(Index));
+
+            return RedirectToAction("Index", "Order");
         }
         public IActionResult Update(int? id)
         {

@@ -1,33 +1,30 @@
-﻿
-@model IEnumerable<Order>;
+﻿@model IEnumerable<Order>
 
-<a type="button" class="btn btn-success mb-3" asp-area="Admin" asp-controller="Order" asp-action="Create">Create Order</a>
+<h2>Admin Orders</h2>
 
 <table class="table">
     <thead>
         <tr>
-            <th scope="col">Id</th>
-            <th scope="col">Name</th>
-            <th scope="col">Surname</th>
-            <th scope="col">Problem</th>
-            <th scope="col">Number</th>
-            <th scope="col">Mail</th>
+            <th>Client Name</th>
+            <th>Service</th>
+            <th>Master</th>
+            <th>Status</th>
+            <th>Actions</th>
         </tr>
     </thead>
     <tbody>
-        @foreach (Order item in Model)
+        @foreach (var order in Model)
         {
             <tr>
-                <th scope="row">@item.Id</th>
-                <td>@item.ClientName</td>
-                <td>@item.ClientSurname</td>
-                <td>@item.Problem</td>
-                <td>@item.ClientPhoneNumber</td>
-                <td>@item.ClientEmail</td>
-                <td><a class="btn btn-primary" asp-controller="Order" asp-action="Update" asp-route-id="@item.Id" asp-area="Admin">Update</a></td>
-                <td><a class="btn btn-danger" asp-controller="Order" asp-action="Delete" asp-route-id="@item.Id" asp-area="Admin">Delete</a></td>
+                <td>@order.ClientName @order.ClientSurname</td>
+                <td>@order.Service.Title</td>
+                <td>@order.Master.Name @order.Master.Surname</td>
+                <td>@(order.IsActive ? "Active" : "Inactive")</td>
+                <td>
+                    <a href="@Url.Action("Edit", "AdminOrder", new { id = order.Id })">Edit</a> |
+                    <a href="@Url.Action("Deactivate", "AdminOrder", new { id = order.Id })">Deactivate</a>
+                </td>
             </tr>
         }
-
     </tbody>
 </table>
