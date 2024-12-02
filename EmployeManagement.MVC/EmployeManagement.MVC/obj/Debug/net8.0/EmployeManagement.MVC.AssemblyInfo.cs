@@ -14,7 +14,15 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EmployeManagement.MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+414cef633e27515c0fc0d1c93ee814c52ecba7a6")]
+=======
+<<<<<<< HEAD
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ceccdea53b4825ba9a7355d4997fb111cc3371cf")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bdcf0daed118ec5629a5f869e757d3b3b896d14")]
+>>>>>>> 414cef633e27515c0fc0d1c93ee814c52ecba7a6
+>>>>>>> 392bd9629de96522a722696e92c9783be6fb895c
 [assembly: System.Reflection.AssemblyProductAttribute("EmployeManagement.MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EmployeManagement.MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

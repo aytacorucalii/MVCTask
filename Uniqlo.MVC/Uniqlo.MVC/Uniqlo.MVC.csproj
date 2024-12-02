@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Remove="Areas\**" />
     <Content Remove="Areas\**" />
     <EmbeddedResource Remove="Areas\**" />
@@ -19,6 +20,9 @@
   </ItemGroup>
 
   <ItemGroup>
+=======
+    <Folder Include="Areas\Admin\Controllers\" />
+>>>>>>> 392bd9629de96522a722696e92c9783be6fb895c
     <Folder Include="Areas\Admin\Data\" />
     <Folder Include="Areas\Admin\Models\" />
     <Folder Include="Areas\Admin\Views\" />

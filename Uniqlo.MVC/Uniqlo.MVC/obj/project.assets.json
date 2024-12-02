@@ -7603,11 +7603,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\Uniqlo.MVC\\Uniqlo.MVC\\Uniqlo.MVC.csproj",
       "projectName": "Uniqlo.MVC",
       "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\Uniqlo.MVC\\Uniqlo.MVC\\Uniqlo.MVC.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\Uniqlo.MVC\\Uniqlo.MVC\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\New folder\\Uniqlo.MVC\\Uniqlo.MVC\\Uniqlo.MVC.csproj",
+      "projectName": "Uniqlo.MVC",
+      "projectPath": "C:\\Users\\II Novbe\\Desktop\\New folder\\Uniqlo.MVC\\Uniqlo.MVC\\Uniqlo.MVC.csproj",
+      "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\II Novbe\\Desktop\\New folder\\Uniqlo.MVC\\Uniqlo.MVC\\obj\\",
+>>>>>>> 392bd9629de96522a722696e92c9783be6fb895c
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

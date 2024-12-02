@@ -398,6 +398,7 @@ C:\Users\II Novbe\Desktop\New folder\Uniqlo.MVC\Uniqlo.MVC\bin\Debug\net8.0\runt
 C:\Users\II Novbe\Desktop\New folder\Uniqlo.MVC\Uniqlo.MVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\II Novbe\Desktop\New folder\Uniqlo.MVC\Uniqlo.MVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\II Novbe\Desktop\New folder\Uniqlo.MVC\Uniqlo.MVC\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+<<<<<<< HEAD
 C:\Users\Hp\OneDrive\Desktop\New folder\MVCTask\Uniqlo.MVC\Uniqlo.MVC\obj\Debug\net8.0\Uniqlo.MVC.csproj.AssemblyReference.cache
 C:\Users\Hp\OneDrive\Desktop\New folder\MVCTask\Uniqlo.MVC\Uniqlo.MVC\obj\Debug\net8.0\Uniqlo.MVC.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Hp\OneDrive\Desktop\New folder\MVCTask\Uniqlo.MVC\Uniqlo.MVC\obj\Debug\net8.0\Uniqlo.MVC.AssemblyInfoInputs.cache
@@ -656,3 +657,5 @@ C:\Users\Hp\OneDrive\Desktop\New folder\MVCTask\Uniqlo.MVC\Uniqlo.MVC\obj\Debug\
 C:\Users\Hp\OneDrive\Desktop\New folder\MVCTask\Uniqlo.MVC\Uniqlo.MVC\obj\Debug\net8.0\Uniqlo.MVC.csproj.Up2Date
 C:\Users\Hp\OneDrive\Desktop\New folder\MVCTask\Uniqlo.MVC\Uniqlo.MVC\obj\Debug\net8.0\Uniqlo.MVC.genruntimeconfig.cache
 C:\Users\Hp\OneDrive\Desktop\New folder\MVCTask\Uniqlo.MVC\Uniqlo.MVC\obj\Debug\net8.0\ref\Uniqlo.MVC.dll
+=======
+>>>>>>> 392bd9629de96522a722696e92c9783be6fb895c
