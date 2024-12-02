@@ -34,7 +34,7 @@ namespace EmployeManagement.MVC.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("ExperianceYear")
+                    b.Property<int>("ExperienceYear")
                         .HasColumnType("int");
 
                     b.Property<bool>("IsActive")
@@ -132,6 +132,9 @@ namespace EmployeManagement.MVC.Migrations
                     b.Property<string>("Description")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<bool>("IsActive")
+                        .HasColumnType("bit");
 
                     b.Property<string>("Master")
                         .IsRequired()

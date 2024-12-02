@@ -11,6 +11,5 @@ public class Service:BaseEntity
     public ICollection<Master> Masters { get; set; }
 
     public ICollection<Order> Orders { get; set; }
-
-
+    public bool IsActive { get; internal set; }
 }

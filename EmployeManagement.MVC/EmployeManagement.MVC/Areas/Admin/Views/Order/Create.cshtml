@@ -1,0 +1,26 @@
+﻿@using EmployeManagement.MVC.Models;
+
+<form method="post">
+    <div class="form-group">
+        <label for="ClientName">Client Name</label>
+        <input type="text" class="form-control" name="ClientName" required />
+    </div>
+    <div class="form-group">
+        <label for="ClientSurname">Client Surname</label>
+        <input type="text" class="form-control" name="ClientSurname" required />
+    </div>
+    <div class="form-group">
+        <label for="ClientPhoneNumber">Client Phone Number</label>
+        <input type="text" class="form-control" name="ClientPhoneNumber" required />
+    </div>
+    <div class="form-group">
+        <label for="ClientEmail">Client Email</label>
+        <input type="email" class="form-control" name="ClientEmail" required />
+    </div>
+    <input type="hidden" name="ServiceId" value="@ViewBag.Service.Id" />
+    <div class="form-group">
+        <label for="Problem">Problem Description</label>
+        <textarea class="form-control" name="Problem" required></textarea>
+    </div>
+    <button type="submit" class="btn btn-primary">Create Order</button>
+</form>
