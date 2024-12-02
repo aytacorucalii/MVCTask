@@ -3,6 +3,54 @@
   "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|solutionrelative:employemanagement.mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|solutionrelative:employemanagement.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|solutionrelative:employemanagement.mvc\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|solutionrelative:employemanagement.mvc\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\areas\\admin\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|solutionrelative:employemanagement.mvc\\areas\\admin\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|solutionrelative:employemanagement.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|solutionrelative:employemanagement.mvc\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|solutionrelative:employemanagement.mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\dtos\\userdtos\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|solutionrelative:employemanagement.mvc\\dtos\\userdtos\\createuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\controllers\\service\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|solutionrelative:employemanagement.mvc\\controllers\\service\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|solutionrelative:employemanagement.mvc\\controllers\\home\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\dtos\\userdtos\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|solutionrelative:employemanagement.mvc\\dtos\\userdtos\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|solutionrelative:employemanagement.mvc\\views\\service\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -15,20 +63,12 @@
       "RelativeMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|solutionrelative:employemanagement.mvc\\areas\\admin\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Migrations\\20241201205054_lastmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EmployeManagement.MVC\\Migrations\\20241201205054_lastmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\models\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|solutionrelative:employemanagement.mvc\\models\\master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\areas\\admin\\views\\order\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|solutionrelative:employemanagement.mvc\\areas\\admin\\views\\order\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|solutionrelative:employemanagement.mvc\\areas\\admin\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,14 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|solutionrelative:employemanagement.mvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|solutionrelative:employemanagement.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\areas\\admin\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|solutionrelative:employemanagement.mvc\\areas\\admin\\controllers\\mastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -73,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\migrations\\20241129125727_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|solutionrelative:employemanagement.mvc\\migrations\\20241129125727_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|solutionrelative:employemanagement.mvc\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -108,6 +136,10 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\II Novbe\\Downloads\\Inance Free Website Template - Free-CSS.com (1)\\inance-html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\employemanagement.mvc\\employemanagement.mvc\\migrations\\20241201205054_lastmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B5EB02C-B299-4E87-B73A-FCD1D5F5AF1E}|EmployeManagement.MVC\\EmployeManagement.MVC.csproj|solutionrelative:employemanagement.mvc\\migrations\\20241201205054_lastmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -117,45 +149,167 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "EmployeManagement.MVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "EmployeManagement.MVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T20:41:01.895Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20241201205054_lastmigration.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Migrations\\20241201205054_lastmigration.cs",
-              "RelativeDocumentMoniker": "EmployeManagement.MVC\\Migrations\\20241201205054_lastmigration.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Migrations\\20241201205054_lastmigration.cs",
-              "RelativeToolTip": "EmployeManagement.MVC\\Migrations\\20241201205054_lastmigration.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "EmployeManagement.MVC\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Models\\AppUser.cs",
+              "RelativeToolTip": "EmployeManagement.MVC\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T20:50:54.75Z",
+              "WhenOpened": "2024-12-02T20:36:59.255Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Areas\\Admin\\Views\\Order\\Index.cshtml",
-              "RelativeDocumentMoniker": "EmployeManagement.MVC\\Areas\\Admin\\Views\\Order\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Areas\\Admin\\Views\\Order\\Index.cshtml",
-              "RelativeToolTip": "EmployeManagement.MVC\\Areas\\Admin\\Views\\Order\\Index.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T20:41:46.629Z",
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\DAL\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "EmployeManagement.MVC\\DAL\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\DAL\\AppDBContext.cs",
+              "RelativeToolTip": "EmployeManagement.MVC\\DAL\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T11:08:24.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "EmployeManagement.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "EmployeManagement.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:04:04.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MasterController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Areas\\Admin\\Controllers\\MasterController.cs",
+              "RelativeDocumentMoniker": "EmployeManagement.MVC\\Areas\\Admin\\Controllers\\MasterController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Areas\\Admin\\Controllers\\MasterController.cs",
+              "RelativeToolTip": "EmployeManagement.MVC\\Areas\\Admin\\Controllers\\MasterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:32:17.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "EmployeManagement.MVC\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "EmployeManagement.MVC\\Areas\\Admin\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAwwEYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:07:42.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "EmployeManagement.MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "EmployeManagement.MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA5wDwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T20:21:51.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "EmployeManagement.MVC\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "EmployeManagement.MVC\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T20:22:47.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateUser.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\DTOs\\UserDTOs\\CreateUser.cs",
+              "RelativeDocumentMoniker": "EmployeManagement.MVC\\DTOs\\UserDTOs\\CreateUser.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\DTOs\\UserDTOs\\CreateUser.cs",
+              "RelativeToolTip": "EmployeManagement.MVC\\DTOs\\UserDTOs\\CreateUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T20:26:18.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Controllers\\Service\\ServiceController.cs",
+              "RelativeDocumentMoniker": "EmployeManagement.MVC\\Controllers\\Service\\ServiceController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Controllers\\Service\\ServiceController.cs",
+              "RelativeToolTip": "EmployeManagement.MVC\\Controllers\\Service\\ServiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T20:31:31.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Controllers\\Home\\HomeController.cs",
+              "RelativeDocumentMoniker": "EmployeManagement.MVC\\Controllers\\Home\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Controllers\\Home\\HomeController.cs",
+              "RelativeToolTip": "EmployeManagement.MVC\\Controllers\\Home\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T20:31:19.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\DTOs\\UserDTOs\\LoginUser.cs",
+              "RelativeDocumentMoniker": "EmployeManagement.MVC\\DTOs\\UserDTOs\\LoginUser.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\DTOs\\UserDTOs\\LoginUser.cs",
+              "RelativeToolTip": "EmployeManagement.MVC\\DTOs\\UserDTOs\\LoginUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T20:26:34.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Areas\\Admin\\Views\\Order\\Create.cshtml",
               "RelativeDocumentMoniker": "EmployeManagement.MVC\\Areas\\Admin\\Views\\Order\\Create.cshtml",
@@ -163,25 +317,23 @@
               "RelativeToolTip": "EmployeManagement.MVC\\Areas\\Admin\\Views\\Order\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T20:34:26.458Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T20:34:26.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Areas\\Admin\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "EmployeManagement.MVC\\Areas\\Admin\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Areas\\Admin\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "EmployeManagement.MVC\\Areas\\Admin\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T12:07:42.96Z",
-              "EditorCaption": ""
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeManagement.MVC\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "EmployeManagement.MVC\\Areas\\Admin\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T20:41:46.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "EmployeManagement.MVC\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
@@ -193,20 +345,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Views\\Service\\Index.cshtml",
               "RelativeDocumentMoniker": "EmployeManagement.MVC\\Views\\Service\\Index.cshtml",
               "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Views\\Service\\Index.cshtml",
               "RelativeToolTip": "EmployeManagement.MVC\\Views\\Service\\Index.cshtml",
-              "ViewState": "AgIAANEAAAAAAAAAAAAqwOcAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-29T11:47:50.38Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 34,
+              "Title": "20241201205054_lastmigration.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Migrations\\20241201205054_lastmigration.cs",
+              "RelativeDocumentMoniker": "EmployeManagement.MVC\\Migrations\\20241201205054_lastmigration.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Migrations\\20241201205054_lastmigration.cs",
+              "RelativeToolTip": "EmployeManagement.MVC\\Migrations\\20241201205054_lastmigration.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T20:50:54.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "EmployeManagement.MVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -218,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 15,
               "Title": "Master.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Models\\Master.cs",
               "RelativeDocumentMoniker": "EmployeManagement.MVC\\Models\\Master.cs",
@@ -226,12 +390,11 @@
               "RelativeToolTip": "EmployeManagement.MVC\\Models\\Master.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T11:52:43.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T11:52:43.098Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Areas\\Admin\\Views\\Order\\Update.cshtml",
               "RelativeDocumentMoniker": "EmployeManagement.MVC\\Areas\\Admin\\Views\\Order\\Update.cshtml",
@@ -239,12 +402,11 @@
               "RelativeToolTip": "EmployeManagement.MVC\\Areas\\Admin\\Views\\Order\\Update.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAuwBkAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T20:42:34.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T20:42:34.877Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "EmployeManagement.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -252,24 +414,11 @@
               "RelativeToolTip": "EmployeManagement.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAADMAAAAAAAAAAAAAADoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T12:13:20.18Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T12:13:20.18Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "EmployeManagement.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "EmployeManagement.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T12:04:04.008Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Models\\Order.cs",
               "RelativeDocumentMoniker": "EmployeManagement.MVC\\Models\\Order.cs",
@@ -277,12 +426,11 @@
               "RelativeToolTip": "EmployeManagement.MVC\\Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T11:52:14.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T11:52:14.687Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "EmployeManagement.MVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -294,19 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MasterController.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Areas\\Admin\\Controllers\\MasterController.cs",
-              "RelativeDocumentMoniker": "EmployeManagement.MVC\\Areas\\Admin\\Controllers\\MasterController.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Areas\\Admin\\Controllers\\MasterController.cs",
-              "RelativeToolTip": "EmployeManagement.MVC\\Areas\\Admin\\Controllers\\MasterController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T12:32:17.534Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "EmployeManagement.MVC\\Views\\_ViewImports.cshtml",
@@ -318,7 +454,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "Service.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Models\\Service.cs",
               "RelativeDocumentMoniker": "EmployeManagement.MVC\\Models\\Service.cs",
@@ -326,12 +462,11 @@
               "RelativeToolTip": "EmployeManagement.MVC\\Models\\Service.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T11:14:32.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T11:14:32.606Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
               "Title": "ContactController.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Controllers\\Contact\\ContactController.cs",
               "RelativeDocumentMoniker": "EmployeManagement.MVC\\Controllers\\Contact\\ContactController.cs",
@@ -343,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "EmployeManagement.MVC\\Models\\BaseEntity.cs",
@@ -355,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Program.cs",
               "RelativeDocumentMoniker": "EmployeManagement.MVC\\Program.cs",
@@ -367,7 +502,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "20241129125727_Initial.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Migrations\\20241129125727_Initial.cs",
               "RelativeDocumentMoniker": "EmployeManagement.MVC\\Migrations\\20241129125727_Initial.cs",
@@ -379,19 +514,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AppDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\DAL\\AppDBContext.cs",
-              "RelativeDocumentMoniker": "EmployeManagement.MVC\\DAL\\AppDBContext.cs",
-              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\DAL\\AppDBContext.cs",
-              "RelativeToolTip": "EmployeManagement.MVC\\DAL\\AppDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T11:08:24.384Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "AboutController.cs",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Controllers\\About\\AboutController.cs",
               "RelativeDocumentMoniker": "EmployeManagement.MVC\\Controllers\\About\\AboutController.cs",
@@ -403,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "EmployeManagement.MVC\\Views\\_ViewStart.cshtml",
@@ -415,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "EmployeManagement.MVC\\Views\\Shared\\_Layout.cshtml",
@@ -427,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "EmployeManagement.MVC\\Views\\Home\\Index.cshtml",
@@ -439,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "index.html",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Downloads\\Inance Free Website Template - Free-CSS.com (1)\\inance-html\\index.html",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\II Novbe\\Downloads\\Inance Free Website Template - Free-CSS.com (1)\\inance-html\\index.html",
@@ -451,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\Views\\About\\Index.cshtml",
               "RelativeDocumentMoniker": "EmployeManagement.MVC\\Views\\About\\Index.cshtml",

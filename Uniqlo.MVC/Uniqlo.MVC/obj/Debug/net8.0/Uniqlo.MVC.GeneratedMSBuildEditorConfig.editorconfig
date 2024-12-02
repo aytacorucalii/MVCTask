@@ -1,43 +1,75 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Uniqlo.MVC
 build_property.RootNamespace = Uniqlo.MVC
-build_property.ProjectDir = C:\Users\II Novbe\source\repos\Uniqlo.MVC\Uniqlo.MVC\
+build_property.ProjectDir = C:\Users\Hp\OneDrive\Desktop\MVCTask\Uniqlo.MVC\Uniqlo.MVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\II Novbe\source\repos\Uniqlo.MVC\Uniqlo.MVC
+build_property.MSBuildProjectDirectory = C:\Users\Hp\OneDrive\Desktop\MVCTask\Uniqlo.MVC\Uniqlo.MVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/II Novbe/source/repos/Uniqlo.MVC/Uniqlo.MVC/Views/About/About.cshtml]
+[C:/Users/Hp/OneDrive/Desktop/MVCTask/Uniqlo.MVC/Uniqlo.MVC/Views/About/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/source/repos/Uniqlo.MVC/Uniqlo.MVC/Views/Home/Index.cshtml]
+[C:/Users/Hp/OneDrive/Desktop/MVCTask/Uniqlo.MVC/Uniqlo.MVC/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/MVCTask/Uniqlo.MVC/Uniqlo.MVC/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/MVCTask/Uniqlo.MVC/Uniqlo.MVC/Views/Category/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcVXBkYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/MVCTask/Uniqlo.MVC/Uniqlo.MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/source/repos/Uniqlo.MVC/Uniqlo.MVC/Views/Shared/_Layout.cshtml]
+[C:/Users/Hp/OneDrive/Desktop/MVCTask/Uniqlo.MVC/Uniqlo.MVC/Views/Product/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/MVCTask/Uniqlo.MVC/Uniqlo.MVC/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/MVCTask/Uniqlo.MVC/Uniqlo.MVC/Views/Product/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Hp/OneDrive/Desktop/MVCTask/Uniqlo.MVC/Uniqlo.MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/source/repos/Uniqlo.MVC/Uniqlo.MVC/Views/SliderItem/SliderItem.cshtml]
+[C:/Users/Hp/OneDrive/Desktop/MVCTask/Uniqlo.MVC/Uniqlo.MVC/Views/SliderItem/SliderItem.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2xpZGVySXRlbVxTbGlkZXJJdGVtLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/source/repos/Uniqlo.MVC/Uniqlo.MVC/Views/_ViewImports.cshtml]
+[C:/Users/Hp/OneDrive/Desktop/MVCTask/Uniqlo.MVC/Uniqlo.MVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II Novbe/source/repos/Uniqlo.MVC/Uniqlo.MVC/Views/_ViewStart.cshtml]
+[C:/Users/Hp/OneDrive/Desktop/MVCTask/Uniqlo.MVC/Uniqlo.MVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
