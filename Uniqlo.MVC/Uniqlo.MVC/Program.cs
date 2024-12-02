@@ -8,8 +8,14 @@ builder.Services.AddDbContext<AppDbContext>(
     options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("MsSql"))
 );
+{
+    app.MapControllerRoute(
+      name: "areas",
+      pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+    );
 
-var app = builder.Build();
+
+    var app = builder.Build();
 app.UseStaticFiles();
 app.MapControllerRoute(
    name: "default",

@@ -13,7 +13,8 @@ namespace Uniqlo.MVC.Controllers
         }
         public IActionResult Index()
         {
-            return View();
+            IEnumerable<SliderItem> sliderItems = _context.SliderItems.ToList();
+            return View(sliderItems);
         }
     }
 }

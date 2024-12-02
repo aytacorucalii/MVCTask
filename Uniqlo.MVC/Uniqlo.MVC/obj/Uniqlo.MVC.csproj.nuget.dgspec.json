@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\II Novbe\\source\\repos\\Uniqlo.MVC\\Uniqlo.MVC\\Uniqlo.MVC.csproj": {}
+    "C:\\Users\\II Novbe\\Desktop\\New folder\\Uniqlo.MVC\\Uniqlo.MVC\\Uniqlo.MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\II Novbe\\source\\repos\\Uniqlo.MVC\\Uniqlo.MVC\\Uniqlo.MVC.csproj": {
+    "C:\\Users\\II Novbe\\Desktop\\New folder\\Uniqlo.MVC\\Uniqlo.MVC\\Uniqlo.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\II Novbe\\source\\repos\\Uniqlo.MVC\\Uniqlo.MVC\\Uniqlo.MVC.csproj",
+        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\New folder\\Uniqlo.MVC\\Uniqlo.MVC\\Uniqlo.MVC.csproj",
         "projectName": "Uniqlo.MVC",
-        "projectPath": "C:\\Users\\II Novbe\\source\\repos\\Uniqlo.MVC\\Uniqlo.MVC\\Uniqlo.MVC.csproj",
+        "projectPath": "C:\\Users\\II Novbe\\Desktop\\New folder\\Uniqlo.MVC\\Uniqlo.MVC\\Uniqlo.MVC.csproj",
         "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II Novbe\\source\\repos\\Uniqlo.MVC\\Uniqlo.MVC\\obj\\",
+        "outputPath": "C:\\Users\\II Novbe\\Desktop\\New folder\\Uniqlo.MVC\\Uniqlo.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,6 +69,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.7, )"
             }
           },
           "imports": [
