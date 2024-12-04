@@ -160,7 +160,8 @@
               "RelativeToolTip": "MediClub.MVC\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T13:17:55.946Z"
+              "WhenOpened": "2024-12-04T13:17:55.946Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -185,7 +186,8 @@
               "RelativeToolTip": "MediClub.MVC\\Areas\\Admin\\Controllers\\DoctorController.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAAwDEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T04:58:22.501Z"
+              "WhenOpened": "2024-12-04T04:58:22.501Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -197,7 +199,8 @@
               "RelativeToolTip": "MediClub.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T03:54:55.598Z"
+              "WhenOpened": "2024-12-04T03:54:55.598Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -209,7 +212,8 @@
               "RelativeToolTip": "MediClub.MVC\\Areas\\Admin\\Controllers\\HospitalController.cs",
               "ViewState": "AgIAACYAAAAAAAAAAAAIwDoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T04:57:32.157Z"
+              "WhenOpened": "2024-12-04T04:57:32.157Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -221,7 +225,8 @@
               "RelativeToolTip": "MediClub.MVC\\Areas\\Admin\\Controllers\\PasientController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T03:32:57.984Z"
+              "WhenOpened": "2024-12-04T03:32:57.984Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -269,7 +274,8 @@
               "RelativeToolTip": "MediClub.MVC\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAKoAAAAAAAAAAAAAALMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T20:38:19.312Z"
+              "WhenOpened": "2024-11-28T20:38:19.312Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -293,7 +299,8 @@
               "RelativeToolTip": "MediClub.MVC\\Models\\HospitalDoctor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T04:51:52.33Z"
+              "WhenOpened": "2024-12-04T04:51:52.33Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -305,7 +312,8 @@
               "RelativeToolTip": "MediClub.MVC\\DAL\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T03:13:07.264Z"
+              "WhenOpened": "2024-12-04T03:13:07.264Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
