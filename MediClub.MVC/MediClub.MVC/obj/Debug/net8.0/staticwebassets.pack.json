@@ -1,320 +1,316 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\css\\animate.min.css",
-      "PackagePath": "staticwebassets\\css\\animate.min.css"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\animate.min.css"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\css\\datepicker.css",
-      "PackagePath": "staticwebassets\\css\\datepicker.css"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\css\\datepicker.css",
+      "PackagePath": "staticwebassets\\assets\\css\\datepicker.css"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\css\\font-awesome.min.css",
-      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\css\\icofont.css",
-      "PackagePath": "staticwebassets\\css\\icofont.css"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\css\\icofont.css",
+      "PackagePath": "staticwebassets\\assets\\css\\icofont.css"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\css\\magnific-popup.css",
-      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\css\\nice-select.css",
-      "PackagePath": "staticwebassets\\css\\nice-select.css"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\css\\normalize.css",
-      "PackagePath": "staticwebassets\\css\\normalize.css"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\assets\\css\\normalize.css"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\css\\owl-carousel.css",
-      "PackagePath": "staticwebassets\\css\\owl-carousel.css"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\css\\owl-carousel.css",
+      "PackagePath": "staticwebassets\\assets\\css\\owl-carousel.css"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\css\\responsive.css",
-      "PackagePath": "staticwebassets\\css\\responsive.css"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\responsive.css"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\css\\slicknav.min.css",
-      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slicknav.min.css"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\fonts\\fontawesome-webfont.eot",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\fonts\\fontawesome-webfont.svg",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\fonts\\fontawesome-webfont.ttf",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\fonts\\fontawesome-webfont.woff",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\fonts\\fontawesome-webfont.woff2",
-      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\fonts\\icofont.eot",
-      "PackagePath": "staticwebassets\\fonts\\icofont.eot"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\fonts\\icofont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icofont.eot"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\fonts\\icofont.svg",
-      "PackagePath": "staticwebassets\\fonts\\icofont.svg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\fonts\\icofont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icofont.svg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\fonts\\icofont.ttf",
-      "PackagePath": "staticwebassets\\fonts\\icofont.ttf"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\fonts\\icofont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icofont.ttf"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\fonts\\icofont.woff",
-      "PackagePath": "staticwebassets\\fonts\\icofont.woff"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\fonts\\icofont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icofont.woff"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\fonts\\icofont.woff2",
-      "PackagePath": "staticwebassets\\fonts\\icofont.woff2"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\fonts\\icofont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\icofont.woff2"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\about-img.jpg",
-      "PackagePath": "staticwebassets\\img\\about-img.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\about-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-img.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\author1.jpg",
-      "PackagePath": "staticwebassets\\img\\author1.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\author1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\author1.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\author2.jpg",
-      "PackagePath": "staticwebassets\\img\\author2.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\author2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\author2.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\author3.jpg",
-      "PackagePath": "staticwebassets\\img\\author3.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\author3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\author3.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\blockqoute-bg.jpg",
-      "PackagePath": "staticwebassets\\img\\blockqoute-bg.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\blockqoute-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blockqoute-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\blog-sidebar1.jpg",
-      "PackagePath": "staticwebassets\\img\\blog-sidebar1.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\blog-sidebar1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-sidebar1.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\blog-sidebar2.jpg",
-      "PackagePath": "staticwebassets\\img\\blog-sidebar2.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\blog-sidebar2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-sidebar2.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\blog-sidebar3.jpg",
-      "PackagePath": "staticwebassets\\img\\blog-sidebar3.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\blog-sidebar3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-sidebar3.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\blog1.jpg",
-      "PackagePath": "staticwebassets\\img\\blog1.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\blog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog1.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\blog2.jpg",
-      "PackagePath": "staticwebassets\\img\\blog2.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\blog2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog2.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\blog3.jpg",
-      "PackagePath": "staticwebassets\\img\\blog3.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\blog3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog3.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\bread-bg.jpg",
-      "PackagePath": "staticwebassets\\img\\bread-bg.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\bread-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bread-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\call-bg.jpg",
-      "PackagePath": "staticwebassets\\img\\call-bg.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\call-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\call-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\client-bg.jpg",
-      "PackagePath": "staticwebassets\\img\\client-bg.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\client-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\client-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\client1.png",
-      "PackagePath": "staticwebassets\\img\\client1.png"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\client1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\client1.png"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\client2.png",
-      "PackagePath": "staticwebassets\\img\\client2.png"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\client2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\client2.png"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\client3.png",
-      "PackagePath": "staticwebassets\\img\\client3.png"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\client3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\client3.png"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\client4.png",
-      "PackagePath": "staticwebassets\\img\\client4.png"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\client4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\client4.png"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\client5.png",
-      "PackagePath": "staticwebassets\\img\\client5.png"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\client5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\client5.png"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\contact-img.png",
-      "PackagePath": "staticwebassets\\img\\contact-img.png"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\contact-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\contact-img.png"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\favicon.png",
-      "PackagePath": "staticwebassets\\img\\favicon.png"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\fun-bg.jpg",
-      "PackagePath": "staticwebassets\\img\\fun-bg.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\fun-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\fun-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\logo.png",
-      "PackagePath": "staticwebassets\\img\\logo.png"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\map-marker.png",
-      "PackagePath": "staticwebassets\\img\\map-marker.png"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\map-marker.png",
+      "PackagePath": "staticwebassets\\assets\\img\\map-marker.png"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\mission-img.jpg",
-      "PackagePath": "staticwebassets\\img\\mission-img.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\mission-img.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\mission-img.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\pf1.jpg",
-      "PackagePath": "staticwebassets\\img\\pf1.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\pf1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pf1.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\pf2.jpg",
-      "PackagePath": "staticwebassets\\img\\pf2.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\pf2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pf2.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\pf3.jpg",
-      "PackagePath": "staticwebassets\\img\\pf3.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\pf3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pf3.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\pf4.jpg",
-      "PackagePath": "staticwebassets\\img\\pf4.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\pf4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\pf4.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\section-img.png",
-      "PackagePath": "staticwebassets\\img\\section-img.png"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\section-img.png",
+      "PackagePath": "staticwebassets\\assets\\img\\section-img.png"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\signup-bg.jpg",
-      "PackagePath": "staticwebassets\\img\\signup-bg.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\signup-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\signup-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\slider.jpg",
-      "PackagePath": "staticwebassets\\img\\slider.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\slider.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\slider2.jpg",
-      "PackagePath": "staticwebassets\\img\\slider2.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\slider2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider2.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\slider3.jpg",
-      "PackagePath": "staticwebassets\\img\\slider3.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\slider3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider3.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\testi-bg.jpg",
-      "PackagePath": "staticwebassets\\img\\testi-bg.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\testi-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testi-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\video-bg.jpg",
-      "PackagePath": "staticwebassets\\img\\video-bg.jpg"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\video-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\video-bg.jpg"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\bootstrap-datepicker.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap-datepicker.js"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap-datepicker.js"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\bootstrap.min.js",
-      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\colors.js",
-      "PackagePath": "staticwebassets\\js\\colors.js"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\colors.js",
+      "PackagePath": "staticwebassets\\assets\\js\\colors.js"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\easing.js",
-      "PackagePath": "staticwebassets\\js\\easing.js"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\easing.js",
+      "PackagePath": "staticwebassets\\assets\\js\\easing.js"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\gmaps.min.js",
-      "PackagePath": "staticwebassets\\js\\gmaps.min.js"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\gmaps.min.js"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\jquery-migrate-3.0.0.js",
-      "PackagePath": "staticwebassets\\js\\jquery-migrate-3.0.0.js"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\jquery-migrate-3.0.0.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-migrate-3.0.0.js"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\jquery-ui.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-ui.min.js"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\jquery.counterup.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.counterup.min.js"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\jquery.magnific-popup.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\jquery.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\jquery.nav.js",
-      "PackagePath": "staticwebassets\\js\\jquery.nav.js"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\jquery.nav.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nav.js"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\jquery.scrollUp.min.js",
-      "PackagePath": "staticwebassets\\js\\jquery.scrollUp.min.js"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\jquery.scrollUp.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.scrollUp.min.js"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\main.js",
-      "PackagePath": "staticwebassets\\js\\main.js"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\map-active.js",
-      "PackagePath": "staticwebassets\\js\\map-active.js"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\map-active.js",
+      "PackagePath": "staticwebassets\\assets\\js\\map-active.js"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\niceselect.js",
-      "PackagePath": "staticwebassets\\js\\niceselect.js"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\niceselect.js",
+      "PackagePath": "staticwebassets\\assets\\js\\niceselect.js"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\owl-carousel.js",
-      "PackagePath": "staticwebassets\\js\\owl-carousel.js"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\owl-carousel.js",
+      "PackagePath": "staticwebassets\\assets\\js\\owl-carousel.js"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\popper.min.js",
-      "PackagePath": "staticwebassets\\js\\popper.min.js"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\slicknav.min.js",
-      "PackagePath": "staticwebassets\\js\\slicknav.min.js"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\slicknav.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slicknav.min.js"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\steller.js",
-      "PackagePath": "staticwebassets\\js\\steller.js"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\steller.js",
+      "PackagePath": "staticwebassets\\assets\\js\\steller.js"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\tilt.jquery.min.js",
-      "PackagePath": "staticwebassets\\js\\tilt.jquery.min.js"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\tilt.jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tilt.jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\wow.min.js",
-      "PackagePath": "staticwebassets\\js\\wow.min.js"
-    },
-    {
-      "Id": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\mail\\mail.php",
-      "PackagePath": "staticwebassets\\mail\\mail.php"
+      "Id": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\wow.min.js"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MediClub.MVC.Microsoft.AspNetCore.StaticWebAssets.props",

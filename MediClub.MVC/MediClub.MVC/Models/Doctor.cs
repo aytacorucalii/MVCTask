@@ -13,7 +13,8 @@ public class Doctor
         public string Username { get; set; }
         public bool IsActive { get; set; }
         public int Specialization { get; set; }
-    public ICollection<Appointment>? Appointments { get; set; }
-	public ICollection<HospitalDoctor>? HospitalDoctors { get; set; }
+        public ICollection<Appointment>? Appointments { get; set; }
+	    public ICollection<HospitalDoctor>? HospitalDoctors { get; set; }
+    public IEnumerable<int> HospitalIds { get; internal set; }
 }
 
