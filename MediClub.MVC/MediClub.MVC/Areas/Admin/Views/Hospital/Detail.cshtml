@@ -1,0 +1,12 @@
+﻿@model Hospital
+
+<h2>@Model.Name</h2>
+<p>@Model.Address</p>
+
+<h3>Doctors in this Hospital</h3>
+<ul>
+    @foreach (var hospitalDoctor in Model.HospitalDoctors)
+    {
+        <li>@hospitalDoctor.Doctor.Name (@hospitalDoctor.Doctor.Specialization)</li>
+    }
+</ul>
