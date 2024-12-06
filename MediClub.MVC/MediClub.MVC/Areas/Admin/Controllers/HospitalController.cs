@@ -9,8 +9,12 @@ namespace MediClub.MVC.Areas.Admin.Controllers
     [Area("Admin")]
     public class HospitalController : Controller
 	{
-		private readonly AppDbContext appDbContext;
-		public IActionResult Index()
+		private readonly AppDbContext appDbContext; //injection ele
+        public HospitalController(AppDbContext context)
+        {
+            appDbContext = context;
+        }
+        public IActionResult Index()
 		{
 			return View();
 		}
@@ -49,8 +53,8 @@ namespace MediClub.MVC.Areas.Admin.Controllers
 		
 		public async Task<IActionResult> Detail(int id)
 		{
-			var hospital = await appDbContext.Hospitals
-				.Include(h => h.HospitalDoctors)
+            var hospital = await appDbContext.Hospitals
+                .Include(h => h.HospitalDoctors)
 				.ThenInclude(hd => hd.Doctor)
 				.FirstOrDefaultAsync(h => h.Id == id);
 

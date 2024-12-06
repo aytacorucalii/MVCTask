@@ -8,12 +8,11 @@ public class AppDbContext : DbContext
 {
     public DbSet<Pasient>Pasients { get; set; }
     public DbSet<Doctor> Doctors {  get; set; }
-    public DbSet<Appointment>? Appointments { get; set; }
-    public DbSet<AppUser>? AppUsers { get; set; }
-    public DbSet<AppRole>? AppRoles { get; set; }
-
-	public DbSet<Hospital>? Hospitals { get; set; }
-	public DbSet<HospitalDoctor>? HospitalDoctors { get; set; }
+    public DbSet<Appointment> Appointments { get; set; }
+    public DbSet<AppUser> AppUsers { get; set; }
+    public DbSet<AppRole> AppRoles { get; set; }
+	public DbSet<Hospital> Hospitals { get; set; } 
+	public DbSet<HospitalDoctor> HospitalDoctors { get; set; }
 	public AppDbContext(DbContextOptions options) : base(options)
     {
 

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HJ4PARIfQMrGL3TtBs/Yv6vRaMzkWvUqUhWBdh/RfgA=",
+  "Hash": "reMrwBTmdne9xBtXU/6mr84LVifxhvINrTmL0wpCujM=",
   "Source": "MediClub.MVC",
   "BasePath": "_content/MediClub.MVC",
   "Mode": "Default",
@@ -10,19 +10,19 @@
     {
       "Name": "MediClub.MVC\\wwwroot",
       "Source": "MediClub.MVC",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\css\\animate.min.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\css\\animate.min.css",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "css/animate.min.css",
+      "RelativePath": "assets/css/animate.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -33,15 +33,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\animate.min.css"
+      "OriginalItemSpec": "wwwroot\\assets\\css\\animate.min.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "css/bootstrap.min.css",
+      "RelativePath": "assets/css/bootstrap.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -52,15 +52,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\css\\datepicker.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\css\\datepicker.css",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "css/datepicker.css",
+      "RelativePath": "assets/css/datepicker.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -71,15 +71,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\datepicker.css"
+      "OriginalItemSpec": "wwwroot\\assets\\css\\datepicker.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\css\\font-awesome.min.css",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "css/font-awesome.min.css",
+      "RelativePath": "assets/css/font-awesome.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -90,15 +90,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
+      "OriginalItemSpec": "wwwroot\\assets\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\css\\icofont.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\css\\icofont.css",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "css/icofont.css",
+      "RelativePath": "assets/css/icofont.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -109,15 +109,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\icofont.css"
+      "OriginalItemSpec": "wwwroot\\assets\\css\\icofont.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\css\\magnific-popup.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\css\\magnific-popup.css",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "css/magnific-popup.css",
+      "RelativePath": "assets/css/magnific-popup.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -128,15 +128,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\magnific-popup.css"
+      "OriginalItemSpec": "wwwroot\\assets\\css\\magnific-popup.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\css\\nice-select.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\css\\nice-select.css",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "css/nice-select.css",
+      "RelativePath": "assets/css/nice-select.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,15 +147,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\nice-select.css"
+      "OriginalItemSpec": "wwwroot\\assets\\css\\nice-select.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\css\\normalize.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\css\\normalize.css",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "css/normalize.css",
+      "RelativePath": "assets/css/normalize.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -166,15 +166,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\normalize.css"
+      "OriginalItemSpec": "wwwroot\\assets\\css\\normalize.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\css\\owl-carousel.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\css\\owl-carousel.css",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "css/owl-carousel.css",
+      "RelativePath": "assets/css/owl-carousel.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -185,15 +185,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\owl-carousel.css"
+      "OriginalItemSpec": "wwwroot\\assets\\css\\owl-carousel.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\css\\responsive.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\css\\responsive.css",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "css/responsive.css",
+      "RelativePath": "assets/css/responsive.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -204,15 +204,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\responsive.css"
+      "OriginalItemSpec": "wwwroot\\assets\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\css\\slicknav.min.css",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\css\\slicknav.min.css",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "css/slicknav.min.css",
+      "RelativePath": "assets/css/slicknav.min.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -223,15 +223,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\slicknav.min.css"
+      "OriginalItemSpec": "wwwroot\\assets\\css\\slicknav.min.css"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "fonts/fontawesome-webfont.eot",
+      "RelativePath": "assets/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -242,15 +242,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.eot"
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "fonts/fontawesome-webfont.svg",
+      "RelativePath": "assets/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -261,15 +261,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.svg"
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "fonts/fontawesome-webfont.ttf",
+      "RelativePath": "assets/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -280,15 +280,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.ttf"
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "fonts/fontawesome-webfont.woff",
+      "RelativePath": "assets/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -299,15 +299,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff"
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "fonts/fontawesome-webfont.woff2",
+      "RelativePath": "assets/fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -318,15 +318,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont.woff2"
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\fonts\\icofont.eot",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\fonts\\icofont.eot",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "fonts/icofont.eot",
+      "RelativePath": "assets/fonts/icofont.eot",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -337,15 +337,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\icofont.eot"
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\icofont.eot"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\fonts\\icofont.svg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\fonts\\icofont.svg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "fonts/icofont.svg",
+      "RelativePath": "assets/fonts/icofont.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -356,15 +356,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\icofont.svg"
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\icofont.svg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\fonts\\icofont.ttf",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\fonts\\icofont.ttf",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "fonts/icofont.ttf",
+      "RelativePath": "assets/fonts/icofont.ttf",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -375,15 +375,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\icofont.ttf"
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\icofont.ttf"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\fonts\\icofont.woff",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\fonts\\icofont.woff",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "fonts/icofont.woff",
+      "RelativePath": "assets/fonts/icofont.woff",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -394,15 +394,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\icofont.woff"
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\icofont.woff"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\fonts\\icofont.woff2",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\fonts\\icofont.woff2",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "fonts/icofont.woff2",
+      "RelativePath": "assets/fonts/icofont.woff2",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -413,15 +413,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\fonts\\icofont.woff2"
+      "OriginalItemSpec": "wwwroot\\assets\\fonts\\icofont.woff2"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\about-img.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\about-img.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/about-img.jpg",
+      "RelativePath": "assets/img/about-img.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -432,15 +432,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\about-img.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\about-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\author1.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\author1.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/author1.jpg",
+      "RelativePath": "assets/img/author1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -451,15 +451,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\author1.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\author1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\author2.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\author2.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/author2.jpg",
+      "RelativePath": "assets/img/author2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -470,15 +470,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\author2.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\author2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\author3.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\author3.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/author3.jpg",
+      "RelativePath": "assets/img/author3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -489,15 +489,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\author3.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\author3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\blockqoute-bg.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\blockqoute-bg.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/blockqoute-bg.jpg",
+      "RelativePath": "assets/img/blockqoute-bg.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -508,15 +508,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\blockqoute-bg.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\blockqoute-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\blog1.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\blog1.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/blog1.jpg",
+      "RelativePath": "assets/img/blog1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -527,15 +527,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\blog1.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\blog1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\blog2.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\blog2.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/blog2.jpg",
+      "RelativePath": "assets/img/blog2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -546,15 +546,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\blog2.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\blog2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\blog3.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\blog3.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/blog3.jpg",
+      "RelativePath": "assets/img/blog3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -565,15 +565,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\blog3.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\blog3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\blog-sidebar1.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\blog-sidebar1.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/blog-sidebar1.jpg",
+      "RelativePath": "assets/img/blog-sidebar1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -584,15 +584,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\blog-sidebar1.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\blog-sidebar1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\blog-sidebar2.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\blog-sidebar2.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/blog-sidebar2.jpg",
+      "RelativePath": "assets/img/blog-sidebar2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -603,15 +603,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\blog-sidebar2.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\blog-sidebar2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\blog-sidebar3.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\blog-sidebar3.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/blog-sidebar3.jpg",
+      "RelativePath": "assets/img/blog-sidebar3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -622,15 +622,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\blog-sidebar3.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\blog-sidebar3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\bread-bg.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\bread-bg.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/bread-bg.jpg",
+      "RelativePath": "assets/img/bread-bg.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -641,15 +641,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\bread-bg.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\bread-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\call-bg.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\call-bg.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/call-bg.jpg",
+      "RelativePath": "assets/img/call-bg.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -660,15 +660,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\call-bg.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\call-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\client1.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\client1.png",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/client1.png",
+      "RelativePath": "assets/img/client1.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -679,15 +679,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\client1.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\client1.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\client2.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\client2.png",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/client2.png",
+      "RelativePath": "assets/img/client2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -698,15 +698,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\client2.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\client2.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\client3.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\client3.png",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/client3.png",
+      "RelativePath": "assets/img/client3.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -717,15 +717,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\client3.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\client3.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\client4.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\client4.png",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/client4.png",
+      "RelativePath": "assets/img/client4.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -736,15 +736,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\client4.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\client4.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\client5.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\client5.png",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/client5.png",
+      "RelativePath": "assets/img/client5.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -755,15 +755,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\client5.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\client5.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\client-bg.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\client-bg.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/client-bg.jpg",
+      "RelativePath": "assets/img/client-bg.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -774,15 +774,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\client-bg.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\client-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\contact-img.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\contact-img.png",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/contact-img.png",
+      "RelativePath": "assets/img/contact-img.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -793,15 +793,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\contact-img.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\contact-img.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\favicon.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\favicon.png",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/favicon.png",
+      "RelativePath": "assets/img/favicon.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -812,15 +812,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\favicon.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\fun-bg.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\fun-bg.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/fun-bg.jpg",
+      "RelativePath": "assets/img/fun-bg.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -831,15 +831,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\fun-bg.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\fun-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\logo.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\logo.png",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/logo.png",
+      "RelativePath": "assets/img/logo.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -850,15 +850,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\logo.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\map-marker.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\map-marker.png",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/map-marker.png",
+      "RelativePath": "assets/img/map-marker.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -869,15 +869,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\map-marker.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\map-marker.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\mission-img.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\mission-img.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/mission-img.jpg",
+      "RelativePath": "assets/img/mission-img.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -888,15 +888,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\mission-img.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\mission-img.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\pf1.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\pf1.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/pf1.jpg",
+      "RelativePath": "assets/img/pf1.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -907,15 +907,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\pf1.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\pf1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\pf2.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\pf2.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/pf2.jpg",
+      "RelativePath": "assets/img/pf2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -926,15 +926,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\pf2.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\pf2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\pf3.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\pf3.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/pf3.jpg",
+      "RelativePath": "assets/img/pf3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -945,15 +945,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\pf3.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\pf3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\pf4.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\pf4.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/pf4.jpg",
+      "RelativePath": "assets/img/pf4.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -964,15 +964,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\pf4.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\pf4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\section-img.png",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\section-img.png",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/section-img.png",
+      "RelativePath": "assets/img/section-img.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -983,15 +983,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\section-img.png"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\section-img.png"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\signup-bg.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\signup-bg.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/signup-bg.jpg",
+      "RelativePath": "assets/img/signup-bg.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1002,15 +1002,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\signup-bg.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\signup-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\slider.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\slider.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/slider.jpg",
+      "RelativePath": "assets/img/slider.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1021,15 +1021,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\slider.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\slider.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\slider2.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\slider2.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/slider2.jpg",
+      "RelativePath": "assets/img/slider2.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1040,15 +1040,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\slider2.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\slider2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\slider3.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\slider3.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/slider3.jpg",
+      "RelativePath": "assets/img/slider3.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1059,15 +1059,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\slider3.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\slider3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\testi-bg.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\testi-bg.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/testi-bg.jpg",
+      "RelativePath": "assets/img/testi-bg.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1078,15 +1078,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\testi-bg.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\testi-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\img\\video-bg.jpg",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\img\\video-bg.jpg",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "img/video-bg.jpg",
+      "RelativePath": "assets/img/video-bg.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1097,15 +1097,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\video-bg.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\img\\video-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\bootstrap.min.js",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "js/bootstrap.min.js",
+      "RelativePath": "assets/js/bootstrap.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1116,15 +1116,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\bootstrap-datepicker.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\bootstrap-datepicker.js",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "js/bootstrap-datepicker.js",
+      "RelativePath": "assets/js/bootstrap-datepicker.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1135,15 +1135,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\bootstrap-datepicker.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\bootstrap-datepicker.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\colors.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\colors.js",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "js/colors.js",
+      "RelativePath": "assets/js/colors.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1154,15 +1154,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\colors.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\colors.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\easing.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\easing.js",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "js/easing.js",
+      "RelativePath": "assets/js/easing.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1173,15 +1173,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\easing.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\easing.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\gmaps.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\gmaps.min.js",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "js/gmaps.min.js",
+      "RelativePath": "assets/js/gmaps.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1192,15 +1192,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\gmaps.min.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\gmaps.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\jquery.counterup.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\jquery.counterup.min.js",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "js/jquery.counterup.min.js",
+      "RelativePath": "assets/js/jquery.counterup.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1211,15 +1211,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\jquery.counterup.min.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.counterup.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "js/jquery.magnific-popup.min.js",
+      "RelativePath": "assets/js/jquery.magnific-popup.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1230,15 +1230,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\jquery.magnific-popup.min.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.magnific-popup.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\jquery.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\jquery.min.js",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "js/jquery.min.js",
+      "RelativePath": "assets/js/jquery.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1249,15 +1249,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\jquery.nav.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\jquery.nav.js",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "js/jquery.nav.js",
+      "RelativePath": "assets/js/jquery.nav.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1268,15 +1268,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\jquery.nav.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.nav.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\jquery.scrollUp.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\jquery.scrollUp.min.js",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "js/jquery.scrollUp.min.js",
+      "RelativePath": "assets/js/jquery.scrollUp.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1287,15 +1287,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\jquery.scrollUp.min.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.scrollUp.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\jquery-migrate-3.0.0.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\jquery-migrate-3.0.0.js",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "js/jquery-migrate-3.0.0.js",
+      "RelativePath": "assets/js/jquery-migrate-3.0.0.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1306,15 +1306,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\jquery-migrate-3.0.0.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\jquery-migrate-3.0.0.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\jquery-ui.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\jquery-ui.min.js",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "js/jquery-ui.min.js",
+      "RelativePath": "assets/js/jquery-ui.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1325,15 +1325,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\jquery-ui.min.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\jquery-ui.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\main.js",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "js/main.js",
+      "RelativePath": "assets/js/main.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1344,15 +1344,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\main.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\map-active.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\map-active.js",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "js/map-active.js",
+      "RelativePath": "assets/js/map-active.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1363,15 +1363,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\map-active.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\map-active.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\niceselect.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\niceselect.js",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "js/niceselect.js",
+      "RelativePath": "assets/js/niceselect.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1382,15 +1382,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\niceselect.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\niceselect.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\owl-carousel.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\owl-carousel.js",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "js/owl-carousel.js",
+      "RelativePath": "assets/js/owl-carousel.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1401,15 +1401,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\owl-carousel.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\owl-carousel.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\popper.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\popper.min.js",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "js/popper.min.js",
+      "RelativePath": "assets/js/popper.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1420,15 +1420,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\popper.min.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\slicknav.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\slicknav.min.js",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "js/slicknav.min.js",
+      "RelativePath": "assets/js/slicknav.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1439,15 +1439,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\slicknav.min.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\slicknav.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\steller.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\steller.js",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "js/steller.js",
+      "RelativePath": "assets/js/steller.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1458,15 +1458,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\steller.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\steller.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\tilt.jquery.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\tilt.jquery.min.js",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "js/tilt.jquery.min.js",
+      "RelativePath": "assets/js/tilt.jquery.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1477,15 +1477,15 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\tilt.jquery.min.js"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\tilt.jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\js\\wow.min.js",
+      "Identity": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\assets\\js\\wow.min.js",
       "SourceId": "MediClub.MVC",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\II Novbe\\Desktop\\New folder\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
       "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "js/wow.min.js",
+      "RelativePath": "assets/js/wow.min.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1496,26 +1496,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\js\\wow.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\mail\\mail.php",
-      "SourceId": "MediClub.MVC",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\MediClub.MVC\\MediClub.MVC\\wwwroot\\",
-      "BasePath": "_content/MediClub.MVC",
-      "RelativePath": "mail/mail.php",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\mail\\mail.php"
+      "OriginalItemSpec": "wwwroot\\assets\\js\\wow.min.js"
     }
   ]
 }
