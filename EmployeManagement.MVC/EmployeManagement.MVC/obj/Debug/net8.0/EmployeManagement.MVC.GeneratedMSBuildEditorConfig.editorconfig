@@ -17,46 +17,12 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EmployeManagement.MVC
 build_property.RootNamespace = EmployeManagement.MVC
-<<<<<<< HEAD
-build_property.ProjectDir = C:\Users\II Novbe\Desktop\New folder\EmployeManagement.MVC\EmployeManagement.MVC\
-=======
 build_property.ProjectDir = C:\Users\Hp\OneDrive\Desktop\MVCTask\EmployeManagement.MVC\EmployeManagement.MVC\
->>>>>>> 414cef633e27515c0fc0d1c93ee814c52ecba7a6
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-<<<<<<< HEAD
-build_property.MSBuildProjectDirectory = C:\Users\II Novbe\Desktop\New folder\EmployeManagement.MVC\EmployeManagement.MVC
-build_property._RazorSourceGeneratorDebug = 
-
-[C:/Users/II Novbe/Desktop/New folder/EmployeManagement.MVC/EmployeManagement.MVC/Views/About/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/II Novbe/Desktop/New folder/EmployeManagement.MVC/EmployeManagement.MVC/Views/Contact/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/II Novbe/Desktop/New folder/EmployeManagement.MVC/EmployeManagement.MVC/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/II Novbe/Desktop/New folder/EmployeManagement.MVC/EmployeManagement.MVC/Views/Service/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/II Novbe/Desktop/New folder/EmployeManagement.MVC/EmployeManagement.MVC/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/II Novbe/Desktop/New folder/EmployeManagement.MVC/EmployeManagement.MVC/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/II Novbe/Desktop/New folder/EmployeManagement.MVC/EmployeManagement.MVC/Views/_ViewStart.cshtml]
-=======
 build_property.MSBuildProjectDirectory = C:\Users\Hp\OneDrive\Desktop\MVCTask\EmployeManagement.MVC\EmployeManagement.MVC
 build_property._RazorSourceGeneratorDebug = 
 
@@ -112,6 +78,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Hp/OneDrive/Desktop/MVCTask/EmployeManagement.MVC/EmployeManagement.MVC/Views/Service/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Hp/OneDrive/Desktop/MVCTask/EmployeManagement.MVC/EmployeManagement.MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -121,6 +91,5 @@ build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Hp/OneDrive/Desktop/MVCTask/EmployeManagement.MVC/EmployeManagement.MVC/Views/_ViewStart.cshtml]
->>>>>>> 414cef633e27515c0fc0d1c93ee814c52ecba7a6
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

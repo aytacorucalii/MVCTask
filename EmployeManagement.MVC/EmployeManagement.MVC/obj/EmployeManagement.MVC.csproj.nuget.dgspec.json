@@ -1,19 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "C:\\Users\\II Novbe\\Desktop\\New folder\\EmployeManagement.MVC\\EmployeManagement.MVC\\EmployeManagement.MVC.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\II Novbe\\Desktop\\New folder\\EmployeManagement.MVC\\EmployeManagement.MVC\\EmployeManagement.MVC.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\II Novbe\\Desktop\\New folder\\EmployeManagement.MVC\\EmployeManagement.MVC\\EmployeManagement.MVC.csproj",
-        "projectName": "EmployeManagement.MVC",
-        "projectPath": "C:\\Users\\II Novbe\\Desktop\\New folder\\EmployeManagement.MVC\\EmployeManagement.MVC\\EmployeManagement.MVC.csproj",
-        "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\II Novbe\\Desktop\\New folder\\EmployeManagement.MVC\\EmployeManagement.MVC\\obj\\",
-=======
     "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\EmployeManagement.MVC.csproj": {}
   },
   "projects": {
@@ -25,7 +12,6 @@
         "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\EmployeManagement.MVC.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\EmployeManagement.MVC\\EmployeManagement.MVC\\obj\\",
->>>>>>> 414cef633e27515c0fc0d1c93ee814c52ecba7a6
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

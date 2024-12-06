@@ -20,6 +20,11 @@ namespace EmployeManagement.MVC.Areas.Admin.Controllers
         }
         public IActionResult Delete(int Id)
         {
+            var result = appDBContext.Orders.Any(o => o.Id == Id);
+            if(result)
+            {
+                return BadRequest("something went wrong");
+            }
             Order? deletedOrder = appDBContext.Orders.Find(Id);
             if (deletedOrder == null) { return NotFound(); }
             else
