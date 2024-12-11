@@ -1,0 +1,44 @@
+﻿@model YourProject.DTOs.UpdateServiceDTO
+
+<h2>Xidmət Yeniləmə</h2>
+
+<form asp-action="Update" method="post">
+    <div>
+        <label for="Title">Başlıq:</label>
+        <input type="text" id="Title" name="Title" value="@Model.Title" />
+    </div>
+
+    <div>
+        <label for="Description">Təsvir:</label>
+        <textarea id="Description" name="Description">@Model.Description</textarea>
+    </div>
+
+    <div>
+        <label for="Image">Əsas Şəkil </label>
+        <input type="text" asp-for="Image" value="@Model.Image" />
+    </div>
+
+    <div>
+        <label>Şəkillər:</label>
+        <ul>
+            @foreach (var image in Model.Images)
+            {
+                <li>
+                    <input type="text" name="Images" value="@image" />
+                </li>
+            }
+        </ul>
+        <button type="button" onclick="addImageField()">Yeni Şəkil Əlavə Et</button>
+    </div>
+
+    <button type="submit">Yenilə</button>
+</form>
+
+<script>
+    function addImageField() {
+        const ul = document.querySelector("form ul");
+        const li = document.createElement("li");
+        li.innerHTML = '<input type="text" name="Images" />';
+        ul.appendChild(li);
+    }
+</script>
