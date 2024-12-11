@@ -7597,23 +7597,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\II Novbe\\.nuget\\packages\\": {},
+    "C:\\Users\\Hp\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\II Novbe\\source\\repos\\GameStorePr.MVC\\GameStorePr.MVC\\GameStorePr.MVC.csproj",
+      "projectUniqueName": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\GameStorePr.MVC.csproj",
       "projectName": "GameStorePr.MVC",
-      "projectPath": "C:\\Users\\II Novbe\\source\\repos\\GameStorePr.MVC\\GameStorePr.MVC\\GameStorePr.MVC.csproj",
-      "packagesPath": "C:\\Users\\II Novbe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\II Novbe\\source\\repos\\GameStorePr.MVC\\GameStorePr.MVC\\obj\\",
+      "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\GameStorePr.MVC.csproj",
+      "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\II Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

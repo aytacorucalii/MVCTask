@@ -1,8 +1,10 @@
-﻿namespace GameStorePr.MVC.Models;
+﻿using GameStorePr.MVC.Models.Base;
 
-public class Game
+namespace GameStorePr.MVC.Models;
+
+public class Game: BaseEntity
 {
-    public int Id { get; set; }
+   
     public string GameName { get; set; }
     public string Description { get; set; }
     public string Image { get; set; }
