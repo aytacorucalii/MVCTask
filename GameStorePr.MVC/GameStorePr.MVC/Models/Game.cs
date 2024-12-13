@@ -10,4 +10,5 @@ public class Game: BaseEntity
     public string Image { get; set; }
     public int Price { get; set; }
     public int GameId { get; set; }
+    public ICollection<Review>? Reviews { get; set; }
 }

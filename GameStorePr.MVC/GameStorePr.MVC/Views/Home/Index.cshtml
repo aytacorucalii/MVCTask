@@ -36,32 +36,23 @@
     <div class="container">
         <div class="row">
             
+            @foreach(var item in Model.Games)
             {
                 <div class="col-lg-3 col-md-6">
                     <a href="#">
                         <div class="item">
                             <div class="image">
-                                <img src="~/assets/images/featured-01.png" alt="" style="max-width: 44px;">
+                                <img @item.Image alt="" style="max-width: 44px;">
                             </div>
-                            <h4>Free Storage</h4>
+                            <h4> @item.GameName</h4>
                         </div>
                     </a>
                 </div>
 
             }
-            <div class="col-lg-3 col-md-6">
-                <a href="#">
-                    <div class="item">
-                        <div class="image">
-                            <img src="~/assets/images/featured-01.png" alt="" style="max-width: 44px;">
-                        </div>
-                        <h4>Free Storage</h4>
-                    </div>
-                </a>
-            </div>
+                
             
-
-
+         
 
         </div>
     </div>
