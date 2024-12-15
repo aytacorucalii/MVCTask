@@ -1,66 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\",
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\ii novbe\\desktop\\test\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\areas\\admin\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\areas\\admin\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\ii novbe\\desktop\\test\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\dtos\\basketdtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\dtos\\basketdtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\ii novbe\\desktop\\test\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\dtos\\basketdtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\dtos\\basketdtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\ii novbe\\desktop\\test\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\ii novbe\\desktop\\test\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\ii novbe\\desktop\\test\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\ii novbe\\desktop\\test\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\ii novbe\\desktop\\test\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\controllers\\productdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\controllers\\productdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\ii novbe\\desktop\\test\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\ii novbe\\desktop\\test\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\ii novbe\\desktop\\test\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\models\\base\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\models\\base\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\ii novbe\\desktop\\test\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\views\\review\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\views\\review\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\ii novbe\\desktop\\test\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\ii novbe\\desktop\\test\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\areas\\admin\\views\\game\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\areas\\admin\\views\\game\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\ii novbe\\desktop\\test\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\areas\\admin\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\areas\\admin\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\hp\\onedrive\\desktop\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,202 +58,162 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\DAL\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "GameStorePr.MVC\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\DAL\\AppDbContext.cs",
               "RelativeToolTip": "GameStorePr.MVC\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T13:31:23.589Z",
               "IsPinned": true
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeVM.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\ViewModels\\HomeVM.cs",
-              "RelativeDocumentMoniker": "GameStorePr.MVC\\ViewModels\\HomeVM.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\ViewModels\\HomeVM.cs",
-              "RelativeToolTip": "GameStorePr.MVC\\ViewModels\\HomeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T13:25:41.902Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "GameStorePr.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "GameStorePr.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T13:20:48.269Z"
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameStorePr.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GameStorePr.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADcBAAAAAAAAAAAAAFoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T15:10:30.708Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "GameStorePr.MVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "GameStorePr.MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA8wBwAAAAIAAAAAAAAAA==",
+              "Title": "CartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\DTOs\\BasketDTOs\\CartDTO.cs",
+              "RelativeDocumentMoniker": "GameStorePr.MVC\\DTOs\\BasketDTOs\\CartDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\DTOs\\BasketDTOs\\CartDTO.cs",
+              "RelativeToolTip": "GameStorePr.MVC\\DTOs\\BasketDTOs\\CartDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T12:51:02.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductDetailsController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Controllers\\ProductDetailsController.cs",
-              "RelativeDocumentMoniker": "GameStorePr.MVC\\Controllers\\ProductDetailsController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Controllers\\ProductDetailsController.cs",
-              "RelativeToolTip": "GameStorePr.MVC\\Controllers\\ProductDetailsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T12:50:59.374Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Models\\Base\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "GameStorePr.MVC\\Models\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Models\\Base\\BaseEntity.cs",
-              "RelativeToolTip": "GameStorePr.MVC\\Models\\Base\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T12:50:58.313Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuditableEntity.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Models\\Base\\AuditableEntity.cs",
-              "RelativeDocumentMoniker": "GameStorePr.MVC\\Models\\Base\\AuditableEntity.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Models\\Base\\AuditableEntity.cs",
-              "RelativeToolTip": "GameStorePr.MVC\\Models\\Base\\AuditableEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T12:50:57.485Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GameController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Areas\\Admin\\Controllers\\GameController.cs",
-              "RelativeDocumentMoniker": "GameStorePr.MVC\\Areas\\Admin\\Controllers\\GameController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Areas\\Admin\\Controllers\\GameController.cs",
-              "RelativeToolTip": "GameStorePr.MVC\\Areas\\Admin\\Controllers\\GameController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwCMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T12:47:06.902Z",
+              "WhenOpened": "2024-12-15T21:52:33.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "GameStorePr.MVC\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "GameStorePr.MVC\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T12:39:43.735Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Models\\Game.cs",
-              "RelativeDocumentMoniker": "GameStorePr.MVC\\Models\\Game.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Models\\Game.cs",
-              "RelativeToolTip": "GameStorePr.MVC\\Models\\Game.cs",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "GameStorePr.MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "GameStorePr.MVC\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T12:38:50.123Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Views\\Review\\Index.cshtml",
-              "RelativeDocumentMoniker": "GameStorePr.MVC\\Views\\Review\\Index.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Views\\Review\\Index.cshtml",
-              "RelativeToolTip": "GameStorePr.MVC\\Views\\Review\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-13T12:33:23.523Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ReviewController.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Controllers\\ReviewController.cs",
-              "RelativeDocumentMoniker": "GameStorePr.MVC\\Controllers\\ReviewController.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Controllers\\ReviewController.cs",
-              "RelativeToolTip": "GameStorePr.MVC\\Controllers\\ReviewController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T12:33:13.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Review.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Models\\Review.cs",
-              "RelativeDocumentMoniker": "GameStorePr.MVC\\Models\\Review.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Models\\Review.cs",
-              "RelativeToolTip": "GameStorePr.MVC\\Models\\Review.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T12:10:39.616Z"
+              "WhenOpened": "2024-12-15T21:26:38.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "GameStorePr.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "GameStorePr.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-11T13:10:15.463Z",
+              "Title": "BasketDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\DTOs\\BasketDTOs\\BasketDTO.cs",
+              "RelativeDocumentMoniker": "GameStorePr.MVC\\DTOs\\BasketDTOs\\BasketDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\DTOs\\BasketDTOs\\BasketDTO.cs",
+              "RelativeToolTip": "GameStorePr.MVC\\DTOs\\BasketDTOs\\BasketDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T21:19:55.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Program.cs",
-              "RelativeDocumentMoniker": "GameStorePr.MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Program.cs",
-              "RelativeToolTip": "GameStorePr.MVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GameStorePr.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GameStorePr.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADUAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T15:35:39.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "GameStorePr.MVC\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "GameStorePr.MVC\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T15:34:17.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "GameStorePr.MVC\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Controllers\\CartController.cs",
+              "RelativeToolTip": "GameStorePr.MVC\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAACgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T12:51:23.355Z"
+              "WhenOpened": "2024-12-15T15:23:57.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Areas\\Admin\\Views\\Game\\Create.cshtml",
+              "RelativeDocumentMoniker": "GameStorePr.MVC\\Areas\\Admin\\Views\\Game\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Areas\\Admin\\Views\\Game\\Create.cshtml",
+              "RelativeToolTip": "GameStorePr.MVC\\Areas\\Admin\\Views\\Game\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-15T15:10:02.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Areas\\Admin\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "GameStorePr.MVC\\Areas\\Admin\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Areas\\Admin\\Controllers\\GameController.cs",
+              "RelativeToolTip": "GameStorePr.MVC\\Areas\\Admin\\Controllers\\GameController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:08:30.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GameStorePr.MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GameStorePr.MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:08:11.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "GameStorePr.MVC\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Models\\Game.cs",
+              "RelativeToolTip": "GameStorePr.MVC\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:07:58.705Z",
+              "EditorCaption": ""
             }
           ]
         }
