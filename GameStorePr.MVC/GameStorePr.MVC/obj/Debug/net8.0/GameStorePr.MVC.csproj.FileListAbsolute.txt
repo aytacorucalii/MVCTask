@@ -772,3 +772,8 @@ C:\Users\II Novbe\Desktop\test\MVCTask\GameStorePr.MVC\GameStorePr.MVC\obj\Debug
 C:\Users\II Novbe\Desktop\test\MVCTask\GameStorePr.MVC\GameStorePr.MVC\obj\Debug\net8.0\GameStor.0EB94ECC.Up2Date
 C:\Users\II Novbe\Desktop\test\MVCTask\GameStorePr.MVC\GameStorePr.MVC\obj\Debug\net8.0\GameStorePr.MVC.genruntimeconfig.cache
 C:\Users\II Novbe\Desktop\test\MVCTask\GameStorePr.MVC\GameStorePr.MVC\obj\Debug\net8.0\ref\GameStorePr.MVC.dll
+C:\Users\Hp\OneDrive\Desktop\MVCTask\GameStorePr.MVC\GameStorePr.MVC\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Hp\OneDrive\Desktop\MVCTask\GameStorePr.MVC\GameStorePr.MVC\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Hp\OneDrive\Desktop\MVCTask\GameStorePr.MVC\GameStorePr.MVC\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Hp\OneDrive\Desktop\MVCTask\GameStorePr.MVC\GameStorePr.MVC\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Hp\OneDrive\Desktop\MVCTask\GameStorePr.MVC\GameStorePr.MVC\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll

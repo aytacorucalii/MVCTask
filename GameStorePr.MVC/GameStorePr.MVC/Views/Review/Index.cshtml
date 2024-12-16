@@ -1,11 +1,18 @@
 ﻿@using GameStorePr.MVC.Models;
 @model Review;
 
-<form>
-    <div class="form-group">
-        <label for="Message">Message</label>
-        <input type="Message"asp-for="Message" placeholder="Enter message">
-      
-    </div>
-    <button type="submit" class="btn btn-primary">Submit</button>
-</form>
+@{
+    ViewBag.Title = "Review Message";
+}
+
+<div class="container mt-5">
+    <h2>Send Your Review</h2>
+    <form asp-controller="Review" asp-action="SubmitMessage" method="post">
+        <div class="form-group">
+            <label for="message">Your Message</label>
+            <textarea class="form-control" id="message" name="Message" rows="4" placeholder="Type your message here..." required></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary mt-3">Send</button>
+    </form>
+</div>
+

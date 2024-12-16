@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\ii novbe\\desktop\\test\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\ii novbe\\desktop\\test\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\dtos\\basketdtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\dtos\\basketdtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\ii novbe\\desktop\\test\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\dtos\\basketdtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\dtos\\basketdtos\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|c:\\users\\ii novbe\\desktop\\test\\mvctask\\gamestorepr.mvc\\gamestorepr.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F76A5FF0-BAB4-4528-8845-E5B7E4A14572}|GameStorePr.MVC\\GameStorePr.MVC.csproj|solutionrelative:gamestorepr.mvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -66,11 +78,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "GameStorePr.MVC\\DAL\\AppDbContext.cs",
@@ -80,6 +92,45 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-13T13:31:23.589Z",
               "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartDTO.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\DTOs\\BasketDTOs\\CartDTO.cs",
+              "RelativeDocumentMoniker": "GameStorePr.MVC\\DTOs\\BasketDTOs\\CartDTO.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\DTOs\\BasketDTOs\\CartDTO.cs",
+              "RelativeToolTip": "GameStorePr.MVC\\DTOs\\BasketDTOs\\CartDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:01:14.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BasketDTO.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\DTOs\\BasketDTOs\\BasketDTO.cs",
+              "RelativeDocumentMoniker": "GameStorePr.MVC\\DTOs\\BasketDTOs\\BasketDTO.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\DTOs\\BasketDTOs\\BasketDTO.cs",
+              "RelativeToolTip": "GameStorePr.MVC\\DTOs\\BasketDTOs\\BasketDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:01:12.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "GameStorePr.MVC\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Controllers\\CartController.cs",
+              "RelativeToolTip": "GameStorePr.MVC\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA7wEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T10:00:35.898Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -95,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\ViewModels\\HomeVM.cs",
               "RelativeDocumentMoniker": "GameStorePr.MVC\\ViewModels\\HomeVM.cs",
@@ -107,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "DashboardController.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "RelativeDocumentMoniker": "GameStorePr.MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
@@ -119,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "GameStorePr.MVC\\Controllers\\HomeController.cs",
@@ -131,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ProductDetailsController.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Controllers\\ProductDetailsController.cs",
               "RelativeDocumentMoniker": "GameStorePr.MVC\\Controllers\\ProductDetailsController.cs",
@@ -143,7 +194,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Models\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "GameStorePr.MVC\\Models\\Base\\BaseEntity.cs",
@@ -155,7 +206,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "AuditableEntity.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Models\\Base\\AuditableEntity.cs",
               "RelativeDocumentMoniker": "GameStorePr.MVC\\Models\\Base\\AuditableEntity.cs",
@@ -167,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "GameController.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Areas\\Admin\\Controllers\\GameController.cs",
               "RelativeDocumentMoniker": "GameStorePr.MVC\\Areas\\Admin\\Controllers\\GameController.cs",
@@ -175,12 +226,11 @@
               "RelativeToolTip": "GameStorePr.MVC\\Areas\\Admin\\Controllers\\GameController.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAwwCMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-13T12:47:06.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-13T12:47:06.902Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "GameStorePr.MVC\\Views\\_ViewImports.cshtml",
@@ -192,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Models\\Game.cs",
               "RelativeDocumentMoniker": "GameStorePr.MVC\\Models\\Game.cs",
@@ -204,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Views\\Review\\Index.cshtml",
               "RelativeDocumentMoniker": "GameStorePr.MVC\\Views\\Review\\Index.cshtml",
@@ -216,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "ReviewController.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Controllers\\ReviewController.cs",
               "RelativeDocumentMoniker": "GameStorePr.MVC\\Controllers\\ReviewController.cs",
@@ -228,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Review.cs",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Models\\Review.cs",
               "RelativeDocumentMoniker": "GameStorePr.MVC\\Models\\Review.cs",
@@ -240,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\II Novbe\\Desktop\\test\\MVCTask\\GameStorePr.MVC\\GameStorePr.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "GameStorePr.MVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
